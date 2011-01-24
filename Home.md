@@ -1,1 +1,1 @@
-Welcome to the YAMS wiki!
+The YAMS Wiki will store information relating to setting up and managing your YAMS installation.
