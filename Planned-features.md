@@ -23,6 +23,7 @@ These are features that YAMS _may_ have one day:
   * Bukkit support: Once it's stable and officially released, as long as Mojang don't get mod support out before then
   * Open your computer's firewall ports when needed and closed again when not
   * Automated UPnP port mapping
+  * Optional embedded Mumble server (Murmur) per Minecraft server
 
 ## Never
 The following things will never be implemented in YAMS:
