@@ -4,7 +4,6 @@ Listed here are features that aren't yet in YAMS but are either planned or have 
 The following are partially implemented and may just need some UI work to finish off
 
   * MOTD (works but can't yet be changed)
-  * Whitelist mode
   * User levels
   * Task scheduler for all jobs
   * Overviewer rendering (can be triggered manually with a POST request)
