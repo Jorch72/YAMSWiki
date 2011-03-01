@@ -21,3 +21,4 @@ If you came here for more information on YAMS, it is summarised on [the github p
   * [[Updating the system copy of Minecraft]]
   * [[Reset admin password]]
   * [[Choose and switch update branch]]
+  * [[Moving data storage without re-install]]
