@@ -6,8 +6,11 @@ The following are partially implemented and may just need some UI work to finish
   * MOTD (works but can't yet be changed)
   * User levels
   * Task scheduler for all jobs
-  * Overviewer rendering (can be triggered manually with a POST request)
-  * C10t rendering (Can be triggered with a JavaScript console)
+  * Overviewer rendering - waiting for 1.3 compatible binaries
+  * C10t rendering - waiting for 1.3 compatible binaries
+  * Biome Extractor support - waiting for 1.3 compatible binaries
+  * Tectonicus rendering - Will only work under very specific conditions at the moment, needs a software rendering option
+  * NBToolkit support
 
 ## Planned
 These are features YAMS will **definitely** have:
@@ -15,6 +18,7 @@ These are features YAMS will **definitely** have:
   * Upload and download of world
   * Automatic backup to Zip/Tar/etc with retention policies and access from the admin panel to your backups
   * Upload and support of plugins (either bukkit or official mod support)
+  * Selection of popular map generators for generating new worlds.
 
 ## Possible
 These are features that YAMS _may_ have one day:
