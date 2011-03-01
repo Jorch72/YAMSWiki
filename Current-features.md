@@ -6,4 +6,4 @@ YAMS currently offers the following functionality:
   * Checks dependencies on install and guides through installing any requirements
   * Provides admin web interface for sending console commands and splits chat messages out
   * Logs everything to a database
-  * Backs up all servers once an hour
+  * Backs up all servers once an hour if they have been logged into since last backup
