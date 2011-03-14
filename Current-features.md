@@ -7,3 +7,6 @@ YAMS currently offers the following functionality:
   * Provides admin web interface for sending console commands and splits chat messages out
   * Logs everything to a database
   * Backs up all servers once an hour if they have been logged into since last backup
+  * Map your server on demand with Overviewer
+  * Generate images of your server with c10t
+  * Serve the output of renders on a built-in webserver
