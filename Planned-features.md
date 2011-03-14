@@ -16,11 +16,11 @@ These are features YAMS will **definitely** have:
   * Automatic backup to Zip/Tar/etc with retention policies and access from the admin panel to your backups
   * Upload and support of plugins (either bukkit or official mod support)
   * Selection of popular map generators for generating new worlds.
+  * Bukkit mod support: as long as Mojang don't get mod support out before then
 
 ## Possible
 These are features that YAMS _may_ have one day:
 
-  * Bukkit support: Once it's stable and officially released, as long as Mojang don't get mod support out before then
   * Open your computer's firewall ports when needed and closed again when not
   * Automated UPnP port mapping
   * Optional embedded Mumble server (Murmur) per Minecraft server
