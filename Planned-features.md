@@ -6,9 +6,6 @@ The following are partially implemented and may just need some UI work to finish
   * MOTD (works but can't yet be changed)
   * User levels
   * Task scheduler for all jobs
-  * Overviewer rendering - waiting for 1.3 compatible binaries
-  * C10t rendering - waiting for 1.3 compatible binaries
-  * Biome Extractor support - waiting for 1.3 compatible binaries
   * Tectonicus rendering - Will only work under very specific conditions at the moment, needs a software rendering option
   * NBToolkit support
 
