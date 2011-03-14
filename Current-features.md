@@ -10,3 +10,4 @@ YAMS currently offers the following functionality:
   * Map your server on demand with Overviewer
   * Generate images of your server with c10t
   * Serve the output of renders on a built-in webserver
+  * Basic Bukkit support
