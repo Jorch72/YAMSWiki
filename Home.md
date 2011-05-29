@@ -5,6 +5,7 @@ If you came here for more information on YAMS, it is summarised on [the github p
 ## Features
   * [[Current Features]]
   * [[Planned Features]]
+  * [[Version History]]
 
 ## Installation
   * [[Downloading and installing YAMS]]
