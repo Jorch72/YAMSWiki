@@ -11,6 +11,8 @@ For Live branch only, not all components need updating all the time, version num
   * [DLL] Potential support for tectonicus but needs a 3D device on the server
   * [WEB] Add default "admin" username to login screen
   * [DLL] Catch odd date returns in last modified field (coming from Bukkit.org)
+  * [WEB] Show VM and RAM usage
+  * [WEB] Change MOTD
 
 ##0.1.176 (current)
   * First publicly available version.
