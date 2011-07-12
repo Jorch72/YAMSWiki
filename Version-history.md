@@ -1,6 +1,6 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
 
-##0.2.2 (upcoming)
+##0.2.2 (current)
   * [DLL] Support for latest Overviewer (0.1.4) and 32/64-bit detection
   * [WEB] Will not request an update for the consoles if there is already one in place
   * [APP] Update all third party apps to latest
@@ -14,5 +14,5 @@ For Live branch only, not all components need updating all the time, version num
   * [WEB] Show VM and RAM usage
   * [WEB] Change MOTD
 
-##0.1.176 (current)
+##0.1.176
   * First publicly available version.
