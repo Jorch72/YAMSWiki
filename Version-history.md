@@ -11,6 +11,8 @@ For Live branch only, not all components need updating all the time, version num
   * [DLL] Catch and store the game mode (creative/survival)
   * [DLL] Updates to the way files are downloaded from the net and better crash handling in this area
   * [DLL] Allow updating and addition of extra dlls as program expands and for security updates
+  * [DLL] Opens ports on Windows firewall and closes them when done
+  * [DLL] Attempts to port forward using UPnP
 
 ##0.2.2 (current)
   * [DLL] Support for latest Overviewer (0.1.4) and 32/64-bit detection
