@@ -1,8 +1,12 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
 
+##0.2.4 (next)
+  * [ALL] Add better handling of exceptions and logging to file (development branch emails errors)
+  * [DLL] Opens ports on Windows firewall and closes them when done
+  * [DLL] Attempts to port forward using UPnP
+
 ##0.2.3 (upcoming)
   * [DLL] Clears player list on crash
-  * [ALL] Add better handling of exceptions and logging to file (development branch emails errors)
   * [APP] Better handling if Java not installed on setup
   * [WEB] Server page now has some styling, can navigate from home page to individual server pages
   * [WEB] Bukkit checkbox wasn't saving state
@@ -11,8 +15,6 @@ For Live branch only, not all components need updating all the time, version num
   * [DLL] Catch and store the game mode (creative/survival)
   * [DLL] Updates to the way files are downloaded from the net and better crash handling in this area
   * [DLL] Allow updating and addition of extra dlls as program expands and for security updates
-  * [DLL] Opens ports on Windows firewall and closes them when done
-  * [DLL] Attempts to port forward using UPnP
 
 ##0.2.2 (current)
   * [DLL] Support for latest Overviewer (0.1.4) and 32/64-bit detection
