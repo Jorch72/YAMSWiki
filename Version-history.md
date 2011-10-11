@@ -1,6 +1,6 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
 
-##0.3 (upcoming)
+##0.3.0 (upcoming)
   * [ALL] Add better handling of exceptions and logging to file (development branch emails errors)
   * [DLL] Opens ports on Windows firewall and closes them when done
   * [DLL] Attempts to port forward using UPnP (depends on router)
