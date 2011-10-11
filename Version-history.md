@@ -3,7 +3,14 @@ For Live branch only, not all components need updating all the time, version num
 ##0.2.4 (upcoming)
   * [ALL] Add better handling of exceptions and logging to file (development branch emails errors)
   * [DLL] Opens ports on Windows firewall and closes them when done
-  * [DLL] Attempts to port forward using UPnP
+  * [DLL] Attempts to port forward using UPnP (depends on router)
+  * [WEB] Moving the scroll on any log away from the bottom stops auto-scroll, returning scroll to the bottom resumes auto-scrolling.
+  * [DLL] Better handling if YAMS crashes but MC doesn't, will kill old processes left orphaned by a crash
+  * [DLL] Updates for overviewer
+  * [WEB] Chat tab was not showing messages from console
+  * [WEB] Updates for playernames that have underscores and other characters
+  * [APP] Shows if port forwards are working
+  * [APP] Allows changing of admin and public ports
 
 ##0.2.3 (current)
   * [DLL] Clears player list on crash
