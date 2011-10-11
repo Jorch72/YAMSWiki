@@ -11,6 +11,7 @@ For Live branch only, not all components need updating all the time, version num
   * [WEB] Updates for playernames that have underscores and other characters
   * [APP] Shows if port forwards are working
   * [APP] Allows changing of admin and public ports
+  * [DLL] Support for pre-release versions downloading, updating and switching between beta and pre
 
 ##0.2.3 (current)
   * [DLL] Clears player list on crash
