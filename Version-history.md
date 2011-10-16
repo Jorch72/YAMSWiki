@@ -1,6 +1,6 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
 
-##0.3.0 (upcoming)
+##0.3.0 (current)
   * [ALL] Add better handling of exceptions and logging to file (development branch emails errors)
   * [DLL] Opens ports on Windows firewall and closes them when done
   * [DLL] Attempts to port forward using UPnP (depends on router)
@@ -14,7 +14,7 @@ For Live branch only, not all components need updating all the time, version num
   * [DLL] Support for pre-release versions downloading, updating and switching between beta and pre
   * [WEB] Change settings in the server.properties
 
-##0.2.3 (current)
+##0.2.3
   * [DLL] Clears player list on crash
   * [APP] Better handling if Java not installed on setup
   * [WEB] Server page now has some styling, can navigate from home page to individual server pages
