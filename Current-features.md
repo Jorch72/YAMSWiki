@@ -2,6 +2,8 @@ YAMS currently offers the following functionality:
 
   * Installer which includes downloading latest Minecraft server
   * Runs itself as a Windows service
+  * Opens firewall ports automatically and closes them again when not needed
+  * If UPnP router is available, will try and forward ports
   * Detects a Minecraft server crash and automatically restarts
   * Runs multiple Minecraft servers within it's service, no need to log on and start manually
   * Checks dependencies on install and guides through installing any requirements
