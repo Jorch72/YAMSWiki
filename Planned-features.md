@@ -3,7 +3,6 @@ Listed here are features that aren't yet in YAMS but are either planned or have 
 ## Partial
 The following are partially implemented and may just need some UI work to finish off
 
-  * MOTD (works but can't yet be changed)
   * User levels
   * Task scheduler for all jobs
   * Tectonicus rendering - Will only work under very specific conditions at the moment, needs a software rendering option
@@ -21,8 +20,6 @@ These are features YAMS will **definitely** have:
 ## Possible
 These are features that YAMS _may_ have one day:
 
-  * Open your computer's firewall ports when needed and closed again when not
-  * Automated UPnP port mapping
   * Optional embedded Mumble server (Murmur) per Minecraft server
 
 ## Never
