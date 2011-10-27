@@ -1,5 +1,8 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
-##0.3.1 (current)
+##0.3.2 (current)
+  * [DLL] Fix for world folder being in the wrong place.
+
+##0.3.1
   * [DLL] Detects a corrupted jar download and forces and re-download
 
 ##0.3.0
