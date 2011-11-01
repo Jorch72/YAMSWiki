@@ -21,15 +21,15 @@ The currently live version of YAMS is always here, left clean for quick bug fixe
 
 # Building and testing
 As YAMS is a service, building and debugging is a pain.  My preferred method of working is as follows:
-1. Install YAMS from the web and allow to update.
-2. Log in to admin console and set default server not to auto start (Settings tab)
-3. Stop the service from MMC (services.msc) and set to Manual start.
-4. Delete the web folder, open a command window as an administrator
-5. CD to the YAMS directory and create a symbolic link for the web directory: "mklink /D web C:\Full\path\to\YAMS-Web"
+  1. Install YAMS from the web and allow to update.
+  2. Log in to admin console and set default server not to auto start (Settings tab)
+  3. Stop the service from MMC (services.msc) and set to Manual start.
+  4. Delete the web folder, open a command window as an administrator
+  5. CD to the YAMS directory and create a symbolic link for the web directory: "mklink /D web C:\Full\path\to\YAMS-Web"
 
 Once this is set up, on build you do the following:
-1. Stop the service
-2. Build the file and copy over the top of the one in Program Files
-3. Start the service
+  1. Stop the service
+  2. Build the file and copy over the top of the one in Program Files
+  3. Start the service
 
 When working on the web files, all you need do is save and do a full refresh.  Most browsers seem to ignore full refreshes when a script downloads another script, and this second script is still served from cache.  To combat this, use the [Empty Cache Button](https://addons.mozilla.org/en-us/firefox/addon/empty-cache-button/) Firefox extension.
