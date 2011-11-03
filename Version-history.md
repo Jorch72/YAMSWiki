@@ -4,6 +4,7 @@ For Live branch only, not all components need updating all the time, version num
   * [WEB] Allow setting of Listen IP and port for Web interfaces
   * [WEB] Allow setting IP and port for MC Server
   * [APP] Better reporting of player numbers
+  * [WEB] Log out button
 
 ##0.3.2 (current)
   * [DLL] Fix for world folder being in the wrong place.
