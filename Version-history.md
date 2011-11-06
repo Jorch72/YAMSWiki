@@ -5,6 +5,8 @@ For Live branch only, not all components need updating all the time, version num
   * [WEB] Allow setting IP and port for MC Server
   * [APP] Better reporting of player numbers
   * [WEB] Log out button
+  * [WEB] Redesigned and refactored around jQuery web interface
+  * [WEB] Creation and deletion of scheduled tasks through the interface
 
 ##0.3.2 (current)
   * [DLL] Fix for world folder being in the wrong place.
