@@ -1,5 +1,5 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
-##0.4.0 (next feature release)
+##0.4.0 (current)
   * [WEB] Allow turning off/on port forwarding and firewall opening
   * [WEB] Allow setting of Listen IP and port for Web interfaces
   * [WEB] Allow setting IP and port for MC Server
@@ -8,7 +8,7 @@ For Live branch only, not all components need updating all the time, version num
   * [WEB] Redesigned and refactored around jQuery web interface
   * [WEB] Creation and deletion of scheduled tasks through the interface
 
-##0.3.2 (current)
+##0.3.2
   * [DLL] Fix for world folder being in the wrong place.
 
 ##0.3.1
