@@ -1,12 +1,12 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
 
-##0.5.0 (upcoming)
+##0.5.0 (current)
   * [WEB] Interface for creating and running multiple servers
   * [WEB] Right-click context menu for players (give, teleport, PM, ban etc)
   * [WEB] Buttons to toggle rain/snow and set time
   * [APP] Scheduled job to clear out old log data
 
-##0.4.0 (current)
+##0.4.0
   * [WEB] Allow turning off/on port forwarding and firewall opening
   * [WEB] Allow setting of Listen IP and port for Web interfaces
   * [WEB] Allow setting IP and port for MC Server
