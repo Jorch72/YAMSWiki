@@ -1,10 +1,11 @@
 Listed here are features that aren't yet in YAMS but are either planned or have been asked for, if there is something you want that isn't listed, please put it on as an [issue](https://github.com/richardbenson/YAMS/issues).  Remember, YAMS will never mod the Minecraft server, it is an admin tool.
 
+[[Version History]] lists all the features currently available.
+
 ## Partial
 The following are partially implemented and may just need some UI work to finish off
 
   * User levels
-  * Task scheduler for all jobs
   * Tectonicus rendering - Will only work under very specific conditions at the moment, needs a software rendering option
   * NBToolkit support
 
@@ -12,7 +13,7 @@ The following are partially implemented and may just need some UI work to finish
 These are features YAMS will **definitely** have:
 
   * Upload and download of world
-  * Automatic backup to Zip/Tar/etc with retention policies and access from the admin panel to your backups
+  * Backup retention policies and access from the admin panel to your backups
   * Upload and support of plugins (either bukkit or official mod support)
   * Selection of popular map generators for generating new worlds.
   * Bukkit mod support: as long as Mojang don't get mod support out before then
