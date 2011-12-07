@@ -12,12 +12,12 @@ The currently live version of YAMS is always here, left clean for quick bug fixe
 * __Binaries__ - Should be empty in git, will be filled by VS2010
 * __Source__ - The Visual Studio 2010 Solution and sub-projects
     * __VS 2008 Interops__ - These are needed purely to generate the UPnP DLLs as there is a bug in VS2010 and .NET 3.5 meaning these Interops are not built correctly.
-    * __YAMS-Library__ - Core DLL that contains any functions that actually do something
+    * __[[YAMS-Library]]__ - Core DLL that contains any functions that actually do something
     * __YAMS-Service__ - The Windows service that keeps YAMS going 24/7
     * __YAMS-Setup__ - Visual Studio setup project for creating the MSI to distribute
     * __YAMS-Tester__ - A throw-away app for checking various functions before they go into the service
     * __YAMS-Updater__ - Small app to restart the service and apply updates to core files
-    * __YAMS-Web__ - VS2010 Web Project for web files
+    * __[[YAMS-Web]]__ - VS2010 Web Project for web files
 
 # Building and testing
 As YAMS is a service, building and debugging is a pain.  My preferred method of working is as follows:
