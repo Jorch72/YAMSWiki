@@ -5,9 +5,7 @@ Listed here are features that aren't yet in YAMS but are either planned or have 
 ## Partial
 The following are partially implemented and may just need some UI work to finish off
 
-  * User levels
-  * Tectonicus rendering - Will only work under very specific conditions at the moment, needs a software rendering option
-  * NBToolkit support
+  * Add map markers to overviewer (without server plugins)
 
 ## Planned
 These are features YAMS will **definitely** have:
