@@ -8,9 +8,10 @@ YAMS currently offers the following functionality:
   * Runs multiple Minecraft servers within it's service, no need to log on and start manually
   * Checks dependencies on install and guides through installing any requirements
   * Provides admin web interface for sending console commands and splits chat messages out
+  * Right-click menu for easily managing players
   * Logs everything to a database
-  * Backs up all servers once an hour if they have been logged into since last backup
-  * Map your server on demand with Overviewer
-  * Generate images of your server with c10t
+  * Back up your servers to your own schedule with the job engine
+  * Map your server on demand and to a schedule with [Overviewer](https://github.com/overviewer/Minecraft-Overviewer)
+  * Generate images of your server with [c10t](https://github.com/udoprog/c10t)
   * Serve the output of renders on a built-in webserver
   * Basic Bukkit support
