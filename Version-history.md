@@ -1,6 +1,15 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
 
-##0.5.0 (current)
+##0.6.0 (current)
+  * [WEB] Dynamic DNS with yams.in address
+  * [WEB] New connections tab shows what to send to your users so they can connect
+  * [WEB] Display player position (slow update)
+  * [WEB] Fix for repeating log entries when lots come in at once
+  * [DLL] Change Bukkit and overviewer URLs
+  * [APP] Reset ports button in updater
+  * [DLL] Fix crash when user tries to log in twice
+
+##0.5.0 
   * [WEB] Interface for creating and running multiple servers
   * [WEB] Right-click context menu for players (give, teleport, PM, ban etc)
   * [WEB] Buttons to toggle rain/snow and set time
@@ -10,7 +19,7 @@ For Live branch only, not all components need updating all the time, version num
   * [WEB] Allow turning off/on port forwarding and firewall opening
   * [WEB] Allow setting of Listen IP and port for Web interfaces
   * [WEB] Allow setting IP and port for MC Server
-  * [APP] Better reporting of player numbers
+  * [DLL] Better reporting of player numbers
   * [WEB] Log out button
   * [WEB] Redesigned and refactored around jQuery web interface
   * [WEB] Creation and deletion of scheduled tasks through the interface
