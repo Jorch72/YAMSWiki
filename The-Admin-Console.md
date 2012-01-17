@@ -1,4 +1,4 @@
-The admin console is the main area for managing your server and is normally accessible via [http://localhost:25565/admin](http://localhost:25565/admin).  It is from here you will do most work and is split into 3 panels:
+The admin console is the main area for managing your server and is normally accessible via [http://localhost:25565/admin](http://localhost:25565/admin).  It is from here you will do most work and is split into 3 panels which can be resized or closed:
 
 ![Main areas of YAMS console](http://yams.in/assets/images/docs/admin-console-main-areas.png)
 
