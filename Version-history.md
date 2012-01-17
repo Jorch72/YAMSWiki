@@ -1,5 +1,9 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
 
+##0.7.0 (upcoming)
+  * [WEB] Option to enable/disable public website
+  * [WEB] View, delete and add to white/ban lists
+
 ##0.6.4 (current)
   * [DLL] Biome Extractor isn't exiting properly if 1.1 client is installed so stop it running automatically
 
