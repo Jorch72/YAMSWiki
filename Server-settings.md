@@ -10,7 +10,7 @@ The server settings screen contains all the options for configuring your server 
   * **Auto Start Server**: Whether to start this server up automatically whenever YAMS is started.
   * **Type**: One of three options:
     * **Vanilla**: The official released version of Minecraft server.
-    * **Bukkit**: CraftBukkit based server.
+    * **Bukkit**: CraftBukkit based server. (make sure you have ticked bukkit in the [[installed apps]] menu)
     * **Vanilla pre-release**: Official weekly snapshots which may be buggy and will require a pre-release client as well, use only if you know what you are doing.
   * **MOTD**: Message of the day broadcast when a user logs on.
   * **Port**: The port number to run the server on (default 25565).  This can usually be left alone, when you add a new server YAMS will look for the next available port so there shouldn't be any conflicts.
