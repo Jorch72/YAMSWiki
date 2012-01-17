@@ -1,6 +1,6 @@
 ![YAMS player list](http://yams.in/assets/images/docs/player-list.png)
 
-Shows a list of currently connected players and their last known location (there is a large delay on this depending on how long Minecraft takes to update the players dat file).  You can right-click a player to access the player menu:
+Shows a list of currently connected players, their op status (medal) and their last known location (there is a large delay on this depending on how long Minecraft takes to update the player's dat file).  You can right-click a player to access the player menu:
 
 ![YAMS player actions menu](http://yams.in/assets/images/docs/right-click-menu.png)
 
