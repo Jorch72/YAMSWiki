@@ -1,6 +1,19 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
 
-##0.6.0 (current)
+##0.6.4 (current)
+  * [DLL] Biome Extractor isn't exiting properly if 1.1 client is installed so stop it running automatically
+
+##0.6.3
+  * [WEB] fix inability to add bukkit in certain circumstances
+  * [WEB] Scheduled jobs interface wasn't refreshing when deleting a job
+
+##0.6.2
+  * [DLL] Trim log messages over 255 characters
+
+##0.6.1
+  * [APP] Add backup external IP checker in case icanhazip.com is down
+
+##0.6.0
   * [WEB] Dynamic DNS with yams.in address
   * [WEB] New connections tab shows what to send to your users so they can connect
   * [WEB] Display player position (slow update)
