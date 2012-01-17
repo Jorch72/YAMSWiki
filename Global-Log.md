@@ -13,6 +13,7 @@ Whilst the information in this log is important, most of it shouldn't impact on 
 **SOURCE** helps you classify the messages and troubleshoot any issue may have.  E.g. if no-one from outside can connect check for messages tagged `networking`
 
 Messages are colour coded as follows:
+
   * **Grey** - Informational
   * **Yellow** - Non-critical warning
   * **Red** - Error
