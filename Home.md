@@ -1,6 +1,6 @@
 # Yet Another Minecraft Server
 
-If you came here for more information on YAMS, it is summarised on [the github pages for this repo](http://richardbenson.github.com/YAMS/).
+If you came here for more information on YAMS, it is summarised on [the github pages for this repo](http://yams.in/).
 
 ## Features
   * [[Current Features]]
