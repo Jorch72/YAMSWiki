@@ -4,6 +4,8 @@ For Live branch only, not all components need updating all the time, version num
   * [WEB] Option to enable/disable public website
   * [WEB] View, delete and add to white/ban lists
   * [WEB] Restart when free scheduled job
+  * [WEB] Delete servers
+  * [WEB] Delete world and optionally set a random seed
 
 ##0.6.4 (current)
   * [DLL] Biome Extractor isn't exiting properly if 1.1 client is installed so stop it running automatically
