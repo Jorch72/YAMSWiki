@@ -1,13 +1,14 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
 
-##0.7.0 (upcoming)
+##0.7.0 (current)
   * [WEB] Option to enable/disable public website
   * [WEB] View, delete and add to white/ban lists
   * [WEB] Restart when free scheduled job
   * [WEB] Delete servers
   * [WEB] Delete world and optionally set a random seed
+  * [APP] Job to clear backups once reached a certain age
 
-##0.6.4 (current)
+##0.6.4
   * [DLL] Biome Extractor isn't exiting properly if 1.1 client is installed so stop it running automatically
 
 ##0.6.3
