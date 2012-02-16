@@ -1,6 +1,12 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
+##0.7.2 (current)
+  * [WEB] Public website is a lot less crappy, not finished but not an eyesore.
+  * [WEB] Web not sending proper parameters on creation of restart when free job
+  * [DLL] Allow DB to increase in size beyond default 127MB
+  * [APP] Button to truncate the logs if needed
+  * [DLL] Catch errors in job engine ticker
 
-##0.7.0 (current)
+##0.7.0 
   * [WEB] Option to enable/disable public website
   * [WEB] View, delete and add to white/ban lists
   * [WEB] Restart when free scheduled job
