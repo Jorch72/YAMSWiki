@@ -16,3 +16,6 @@
 * Press Stop again to bring the server to a clean stop.
 * Start your server again.
 * All done! Your plugin should be installed and ready to be used.
+
+##Backups
+As of 0.8, YAMS will backup any folder that starts with "world" to cater for the default Bukkit world locations; "world", "world_nether" and "world_the_end".  If you are using a multi-world plugin and want your extra worlds to be included in the backup, make sure they start with "world" (e.g. "world_skylands", "world_aether" etc.)
