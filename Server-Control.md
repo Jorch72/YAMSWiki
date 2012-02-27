@@ -9,3 +9,4 @@ These buttons allow you to control the currently selected server, buttons that a
   * **Restart After**: Restarts the server after the specified number of seconds and does a countdown for any users still connected
   * **Toggle Rain/Snow**: Turns on or off server-wide precipitation
   * **Set Time**: Allows either the setting of absolute time or the addition/subtraction of time
+  * **Backup Now**: Creates a backup of the server with the option to add an additional name to identify the backup
