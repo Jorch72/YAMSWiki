@@ -4,7 +4,7 @@ You can override the default launch parameters by placing a file named `args.txt
 
     -server -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=1 -XX:+AggressiveOpts -Xmx1024M -Xms1024M -jar "C:\Program Files (x86)\YAMS\lib\minecraft_server.jar" nogui
 
-Copy and paste this into your new `args.txt` file and edit accordingly.
+Copy and paste this into your new `args.txt` file and edit accordingly.  If you break your server, simply delete or rename the `args.txt` file and YAMS will go back to default settings.  Using this file will render the jar, memory and optimisation settings useless.
 
 ##Running other server jars
 This does open the opportunity to run additional jars than the three that YAMS supports, simply replace the `-jar` argument with the location of your custom jar.
