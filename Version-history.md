@@ -1,5 +1,13 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
-##0.7.2 (current)
+##0.8.0
+  * [WEB] Don't allow bad URLs in dynamic DNS anymore
+  * [DLL] Backups will capture any folder that starts with "world" for Bukkit support
+  * [WEB] Backup now button in server control
+  * [WEB] Public website now features connection address, client url (if using snapshots) and list of players online (with their approximate locations).
+  * [DLL] Ability to override java arguments with [textfile in server folder](https://github.com/richardbenson/YAMS/wiki/Specifying-your-own-launch-options)
+  * [DLL] Stop deleting "config" folder as doubt anyone is still on 0.2.3!
+
+##0.7.2
   * [WEB] Public website is a lot less crappy, not finished but not an eyesore.
   * [WEB] Web not sending proper parameters on creation of restart when free job
   * [DLL] Allow DB to increase in size beyond default 127MB
