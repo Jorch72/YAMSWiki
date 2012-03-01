@@ -1,0 +1,3 @@
+Out of the box, if you have a UPnP router, YAMS will automatically set up your network for people outside to be able to access it and the [[server connections]] tab contains the addresses to send to your players.  Also in there is the address for your public facing website that will show the connection settings along with other useful information.
+
+To disable external access, simply disable port forwarding in the [[network settings]] menu.
