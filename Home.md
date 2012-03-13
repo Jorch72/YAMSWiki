@@ -14,5 +14,8 @@ If you came here for more information on YAMS, it is summarised on [the github p
 ## Configuration
 [[Running Bukkit]] | [[Updating the system copy of Minecraft]] | [[Reset admin password]] | [[Choose and switch update branch]] | [[Moving data storage without re-install]] | [[Specifying your own launch options]]
 
+##Tips
+[[Backing up folders not starting with "world_"]]
+
 ## Development
 [[Repository Guide]] | [[Update Mechanism]]
