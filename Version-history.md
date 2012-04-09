@@ -1,4 +1,8 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
+##0.9.0
+  * [DLL] New telnet/terminal interface
+  * [DLL] Fix bukkit updates failing if server was running
+
 ##0.8.0
   * [WEB] Don't allow bad URLs in dynamic DNS anymore
   * [DLL] Backups will capture any folder that starts with "world" for Bukkit support
