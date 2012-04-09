@@ -9,7 +9,7 @@ If you came here for more information on YAMS, it is summarised on [the github p
 [[Downloading and installing YAMS]] | [[What is actually installed]] | [[Removal]] | [[Importing your World]]
 
 ## Administration
-[[The Admin Console]] | [[Public Website]] | [[Allowing external access]]
+[[The Admin Console]] | [[Public Website]] | [[Allowing external access]] | [[Telnet interface]]
 
 ## Configuration
 [[Running Bukkit]] | [[Updating the system copy of Minecraft]] | [[Reset admin password]] | [[Choose and switch update branch]] | [[Moving data storage without re-install]] | [[Specifying your own launch options]]
