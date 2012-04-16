@@ -8,4 +8,4 @@ In this folder will be a "world" sub-folder, replace the contents of this with t
 
 Start the service again and your new world is loaded.
 
-In a later update, you will be able to upload and download your worlds as well as run multiple Minecraft servers with different worlds.  See the [[Planned Features]] page for more.
+In a later update, you will be able to upload and download your worlds.  See the [[Planned Features]] page for more.
