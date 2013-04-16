@@ -11,7 +11,7 @@ For Live branch only, not all components need updating all the time, version num
   * [WEB] Public JSON API that responds with player lists
 
 ##0.9.1
-  * [DLL] 32-bit Java running on 34-bit Windows was not detected correctly
+  * [DLL] 32-bit Java running on 64-bit Windows was not detected correctly
   * [WEB] Wrong number of images and backups was shown on public site
 
 ##0.9.0
