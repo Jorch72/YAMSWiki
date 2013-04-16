@@ -3,6 +3,7 @@ For Live branch only, not all components need updating all the time, version num
   * [DLL] Make overviewer work again
   * [ALL] Housekeeping/cleaning up
   * [DLL] Support both login strings so Tekkit and other packs based on older MC versions still show users.
+  * [WEB] Order of parameters on come commands has changed.
 
 ##0.10
   * [DLL] If using `args.txt` the JDK wasn't used, always JRE
