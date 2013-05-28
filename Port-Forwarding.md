@@ -11,3 +11,7 @@ UPnP is a flaky standard at the best of times, and many routers ship with UPnP s
 `Unable foward port 80 for Public website: Exception - Object reference not set to an instance of an object.`
 
 If you see an error message in the [[global log]] like the above, YAMS has been unable to find a UPnP router to talk to, make sure you have UPnP enabled in your router config (just Google your router model and UPnP).
+
+## If all else fails
+
+Use a website like (PortForward.com)[www.portforward.com] to help you manually port forward and disable YAMS built-in forwarding via the [[settings menu]].
