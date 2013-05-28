@@ -14,4 +14,4 @@ If you see an error message in the [[global log]] like the above, YAMS has been 
 
 ## If all else fails
 
-Use a website like [PortForward.com](www.portforward.com) to help you manually port forward and disable YAMS built-in forwarding via the [[settings menu]].
+Use a website like [PortForward.com](http://www.portforward.com) to help you manually port forward and disable YAMS built-in forwarding via the [[settings menu]].
