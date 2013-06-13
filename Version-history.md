@@ -1,5 +1,5 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
-##0.11 (Upcoming)
+##0.11 (Current)
   * [DLL] Make overviewer work again
   * [ALL] Housekeeping/cleaning up
   * [DLL] Support both login strings so Tekkit and other packs based on older MC versions still show users.
