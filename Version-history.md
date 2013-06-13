@@ -4,6 +4,7 @@ For Live branch only, not all components need updating all the time, version num
   * [ALL] Housekeeping/cleaning up
   * [DLL] Support both login strings so Tekkit and other packs based on older MC versions still show users.
   * [WEB] Order of parameters on come commands has changed.
+  * [WEB] Add help menu and uservoice tag to admin
 
 ##0.10
   * [DLL] If using `args.txt` the JDK wasn't used, always JRE
