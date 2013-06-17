@@ -1,9 +1,9 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
-##0.12 (Upcoming)
+##0.12 (Current)
   * [DLL] Allow selection of Release/Beta/Dev Bukkit builds
   * [DLL] If user has not chosen to download Bukkit, but selected it as the server type, then choose it for them.
 
-##0.11 (Current)
+##0.11
   * [DLL] Make overviewer work again
   * [ALL] Housekeeping/cleaning up
   * [DLL] Support both login strings so Tekkit and other packs based on older MC versions still show users.
