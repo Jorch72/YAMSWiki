@@ -1,4 +1,8 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
+##0.12 (Upcoming)
+  * [DLL] Allow selection of Release/Beta/Dev Bukkit builds
+  * [DLL] If user has not chosen to download Bukkit, but selected it as the server type, then choose it for them.
+
 ##0.11 (Current)
   * [DLL] Make overviewer work again
   * [ALL] Housekeeping/cleaning up
