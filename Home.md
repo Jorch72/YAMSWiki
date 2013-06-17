@@ -6,7 +6,7 @@ If you came here for more information on YAMS, it is summarised on [the github p
 [[Current Features]] | [[Planned Features]] | [[Version History]]
 
 ## Installation
-[[Downloading and installing YAMS]] | [[What is actually installed]] | [[Removal]] | [[Importing your World]]
+[[Downloading and installing YAMS]] | [[What is actually installed]] | [[Removal]] | [[Importing your World]] | [[Error 1001 and Installation Issues]]
 
 ## Administration
 [[The Admin Console]] | [[Public Website]] | [[Allowing external access]] | [[Telnet interface]]
