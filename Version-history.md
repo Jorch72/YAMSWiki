@@ -1,4 +1,7 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
+##0.13 (Upcoming)
+  * [WEB] New scheduled job; "Issue Command" that sends any command to the server at the specified time
+
 ##0.12 (Current)
   * [DLL] Allow selection of Release/Beta/Dev Bukkit builds
   * [DLL] If user has not chosen to download Bukkit, but selected it as the server type, then choose it for them.
