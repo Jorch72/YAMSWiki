@@ -1,6 +1,7 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
 ##0.13 (Current)
   * [WEB] New scheduled job; "Issue Command" that sends any command to the server at the specified time
+  * [WEB] Add force stop button
   * [DLL] Fix for Mojang's new file naming convention that broke auto-updating from 1.6.x
 
 ##0.12
