@@ -1,8 +1,9 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
-##0.13 (Upcoming)
+##0.13 (Current)
   * [WEB] New scheduled job; "Issue Command" that sends any command to the server at the specified time
+  * [DLL] Fix for Mojang's new file naming convention that broke auto-updating from 1.6.x
 
-##0.12 (Current)
+##0.12
   * [DLL] Allow selection of Release/Beta/Dev Bukkit builds
   * [DLL] If user has not chosen to download Bukkit, but selected it as the server type, then choose it for them.
 
