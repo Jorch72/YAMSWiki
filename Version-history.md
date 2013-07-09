@@ -1,21 +1,21 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
-##0.13 (Current)
+##0.13.0 (Current)
   * [WEB] New scheduled job; "Issue Command" that sends any command to the server at the specified time
   * [WEB] Add force stop button
   * [DLL] Fix for Mojang's new file naming convention that broke auto-updating from 1.6.x
 
-##0.12
+##0.12.0
   * [DLL] Allow selection of Release/Beta/Dev Bukkit builds
   * [DLL] If user has not chosen to download Bukkit, but selected it as the server type, then choose it for them.
 
-##0.11
+##0.11.0
   * [DLL] Make overviewer work again
   * [ALL] Housekeeping/cleaning up
   * [DLL] Support both login strings so Tekkit and other packs based on older MC versions still show users.
   * [WEB] Order of parameters on come commands has changed.
   * [WEB] Add help menu and uservoice tag to admin
 
-##0.10
+##0.10.0
   * [DLL] If using `args.txt` the JDK wasn't used, always JRE
   * [WEB] Fix players not showing in lists after certain MC update
   * [WEB] Public JSON API that responds with player lists
