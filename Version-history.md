@@ -6,6 +6,7 @@ For Live branch only, not all components need updating all the time, version num
   * [WEB] Allow changing of header text on public website
   * [DLL] More details logged when doing updates
   * [WEB] Start and stop commands available in scheduler
+  * [WEB] Reinstate restart button
 
 ##0.13.0 (Current)
   * [WEB] New scheduled job; "Issue Command" that sends any command to the server at the specified time
