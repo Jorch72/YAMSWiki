@@ -1,5 +1,7 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
-##0.14.0 (Current)
+##0.15.0 (Current)
+  * [DLL] 
+##0.14.0
   * [DLL] Better updating of Bukkit and Overviewer
   * [ALL] Support for custom JARs
   * [WEB] Shows internal connection details in connection tab
