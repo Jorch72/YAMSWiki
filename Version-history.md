@@ -1,6 +1,12 @@
 For Live branch only, not all components need updating all the time, version number here refers to the library/DLL.
 ##0.15.0 (Current)
-  * [DLL] 
+  * [DLL] Force IPv4 when detecting external IP
+  * [DLL] Include reporter in automatic downloads and updates
+  * [DLL] Use modified date for overviewer to stop spamming their servers
+  * [DLL] Add a user-agent to downloader
+  * [DLL] CraftBukkit URLs were relative and failing
+  * [DLL] Output text format changed, update regex to fix player lists, version number etc.
+
 ##0.14.0
   * [DLL] Better updating of Bukkit and Overviewer
   * [ALL] Support for custom JARs
